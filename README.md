@@ -1,6 +1,6 @@
 # ARMA-GARCH Modeling & VaR Estimation: XOM vs OXY
 
-A financial econometrics project modeling the **volatility and tail risk** of ExxonMobil (XOM) and Occidental Petroleum (OXY) daily stock returns using ARMA-GARCH models and Value at Risk estimation — applied to a €10 million portfolio.
+A financial econometrics project modeling the **volatility and tail risk** of ExxonMobil (XOM) and Occidental Petroleum (OXY) daily stock returns using ARMA-GARCH models and Value at Risk estimation,applied to a €10 million portfolio.
 
 ---
 
@@ -14,7 +14,7 @@ A financial econometrics project modeling the **volatility and tail risk** of Ex
 
 ## Objective
 
-Energy stocks are notoriously sensitive to macroeconomic shocks — oil price swings, geopolitical crises, and global recessions. This project asks: **how well can ARMA-GARCH models capture the volatility dynamics of XOM and OXY, and what do they tell us about downside risk?**
+Energy stocks are notoriously sensitive to macroeconomic shocks oil price swings, geopolitical crises, and global recessions. This project asks: **how well can ARMA-GARCH models capture the volatility dynamics of XOM and OXY, and what do they tell us about downside risk?**
 
 The goals are:
 1. Model return dynamics using ARMA-GARCH with Student-t innovations
@@ -34,7 +34,7 @@ The goals are:
 | **Variable** | Daily log returns from adjusted closing prices |
 | **Split** | 80% training / 20% test |
 
-> No manual data download needed — Script 01 fetches data automatically from Yahoo Finance.
+> No manual data download needed Script 01 fetches data automatically from Yahoo Finance.
 
 ---
 
